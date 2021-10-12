@@ -1,5 +1,5 @@
-#Bac à sable Java
-##JAVA01: Arguments de la ligne de commande
+# Bac à sable Java
+## JAVA01: Arguments de la ligne de commande
 Un argument
 L'exercice consiste à faire en sorte que, à l'exécution, l'argument passé à la ligne de commande soit écrit à l’écran.
 
@@ -23,7 +23,7 @@ Bonjour Clément
 
 Pour chaque TP JAVA01 à JAVA07, faire une nouvelle classe TpJavaXX avec une méthode “main”.
 
-##JAVA02: Conversion & Primitifs
+## JAVA02: Conversion & Primitifs
 Convertir un entier en flottant
 Le but de ce TP est de visualiser les problèmes de conversion que l’on peut rencontrer.
 
@@ -48,7 +48,7 @@ Afficher toutes les valeurs par System.out.println(...).
 
 aPour chaque TP JAVA01 à JAVA07, faire une nouvelle classe TpJavaXX avec une méthode “main”.
 
-##JAVA03: Affectation élargie
+## JAVA03: Affectation élargie
 Le but de ce TP est de visualiser le résultat d’une conversion avec une affectation élargie.
 
 L'exercice consiste à effectuer une affectation élargie avec des valeurs limites.
@@ -57,12 +57,9 @@ Affecter la valeur 10 à une variable x de type byte.
 Ajouter 1000 à cette variable (avec l’opérateur +=).
 Afficher le résultat par System.out.println(...).
 
-
-
-
 Pour chaque TP JAVA01 à JAVA07, faire une nouvelle classe TpJavaXX avec une méthode “main”.
 
-##JAVA04-1: Conditionnelle
+## JAVA04-1: Conditionnelle
 Première partie : “if”
 Le but de ce TP est d’utiliser les instructions : if ... else ....
 
@@ -78,11 +75,9 @@ $ java TpJava04 4500
 
 Help: utiliser un Float.parseFloat(...).
 
-
-
 Pour chaque TP JAVA01 à JAVA07, faire une nouvelle classe TpJavaXX avec une méthode “main”.
 
-##JAVA04-2: Conditionnelle
+## JAVA04-2: Conditionnelle
 Seconde partie : “switch”
 Le but de ce TP est d’utiliser les instructions : switch ... case … default ....
 
@@ -100,7 +95,7 @@ moyen
 
 Pour chaque TP JAVA01 à JAVA07, faire une nouvelle classe TpJavaXX avec une méthode “main”.
 
-##JAVA05: Afficher la liste des X premiers nombres
+## JAVA05: Afficher la liste des X premiers nombres
 Le but de ce TP est d’utiliser les instructions : do … while ou while ....
 
 L'exercice consiste à afficher la liste des n premiers nombres.
@@ -121,7 +116,7 @@ $ java TpJava05 10
 
 Pour chaque TP JAVA01 à JAVA07, faire une nouvelle classe TpJavaXX avec une méthode “main”.
 
-##JAVA06: Afficher la factorielle d’un nombre
+## JAVA06: Afficher la factorielle d’un nombre
 Le but de ce TP est d’utiliser les instructions : for ....
 
 L'exercice consiste à calculer la factorielle d’un nombre.
@@ -134,7 +129,7 @@ $ java TpJava06 10
 
 Pour chaque TP JAVA01 à JAVA07, faire une nouvelle classe TpJavaXX avec une méthode “main”.
 
-##JAVA07: Afficher des nombres premiers
+## JAVA07: Afficher des nombres premiers
 Le but de ce TP est de produire un algorithme basé sur  les instructions de bases.
 
 L'exercice consiste à calculer et afficher les n premiers nombres premiers.
