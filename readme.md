@@ -1,11 +1,6 @@
 # Bac à sable Java
-<<<<<<< HEAD
+
 ## JAVA01: Arguments de la ligne de commande
-=======
-##JAVA01: Arguments de la ligne de commande
->>>>>>> 22422d936ec04389c7600a92ad5b50e4e78c191a
-Un argument
-L'exercice consiste à faire en sorte que, à l'exécution, l'argument passé à la ligne de commande soit écrit à l’écran.
 
 Si la ligne de commande est :
 $ java TpJava01 Guillaume
