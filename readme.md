@@ -1,4 +1,4 @@
-#Bac à sable Java
+# Bac à sable Java
 ##JAVA01: Arguments de la ligne de commande
 Un argument
 L'exercice consiste à faire en sorte que, à l'exécution, l'argument passé à la ligne de commande soit écrit à l’écran.
